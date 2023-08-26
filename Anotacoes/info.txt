@@ -6,3 +6,5 @@ Funções nativas: valida se é inteiro is_int() float is_float() is_string() is
 Aspas: Duplas e simples para string. Para concatenar "oi 'mundo'" /
 boleano: false não imprimi nda, true imprimi 1 
 Array Associativo: chave valor ($arr = ['nome'=> 'laura', 'idade'=> 29]), acesso e pelo nome da chave
+
+gettype() verifica o tipo de dado
