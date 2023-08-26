@@ -1,5 +1,7 @@
 <?php
    include_once("helpers/url.php");
+   include_once("data/posts.php");
+   include_once("data/categoria.php");
 
 ?>
 
@@ -18,7 +20,17 @@
 </head>
 <body>
     <header>
-        Template de Cabeçalho
+        <a href="<?= $BASE_URL ?>" id="logo">
+           <img src="<?= $BASE_URL ?>/img/logo.png" alt = "blog Monica Codando">
+        </a>
+        <nav>
+            <ul id = "navbar">
+                <li><a href="<?= $BASE_URL ?>"class ="nav-link">Home</a></li>
+                <li><a href="<?= $BASE_URL ?>"class ="nav-link">Categorias</a></li>
+                <li><a href="<?= $BASE_URL ?>"class ="nav-link">Sobre</a></li>
+                <li><a href="<?= $BASE_URL ?>contato.php"class ="nav-link">Contatos</a></li>
+            </ul>
+        </nav>
     </header>
 
     

@@ -15,6 +15,7 @@
         <a href="tel:952183958">
           <img src="<?= $BASE_URL ?>/img/zap.png"alt="telefone" /></a>
       </figure>
+      <h6>	&copy MonicaCodando-2023</h6>
 
 </footer>
 
