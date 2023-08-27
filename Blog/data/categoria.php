@@ -1,6 +1,6 @@
 <?php
 
-  $categories = [
+  $categoria= [
     'PHP',
     'HTML',
     'CSS',
