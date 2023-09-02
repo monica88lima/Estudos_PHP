@@ -8,3 +8,21 @@ boleano: false não imprimi nda, true imprimi 1
 Array Associativo: chave valor ($arr = ['nome'=> 'laura', 'idade'=> 29]), acesso e pelo nome da chave
 
 gettype() verifica o tipo de dado
+
+Debbug - verificar  Xdebug
+
+****************************************************************************************************************
+
+
+API -
+MVC - aplicação em camdas
+
+MODEL -> LÓGICA, REGRA DE NEGOCIO; (banco de dados)
+VIEW -> LAYOUT E EXIBIÇÃO (como os dados são exibidos)
+CONTROLLER -> GERENCIAS OS EVENTOS DAS INTERFACES, UTILIZANDO AS MODELS. (manipulações)
+
+
+Api Rest PHP-Puro
+
+
+****************************************************************************************************************
